@@ -1,13 +1,18 @@
-# Estoque-Console
-
-Sistema de gerenciamento de estoque desenvolvido em Java, executado diretamente pelo terminal.
-
-O projeto trabalha com cadastro de produtos, funcionários e pontos, além de movimentações, reposições e conferências de estoque.
-
 <p align="center">
-  <img src="estoque-demo.gif" alt="Demonstração do sistema" width="900">
+  <img src="img/banner.png" alt="Estoque-Console" width="100%">
 </p>
 
+<p align="center">
+  Sistema de gerenciamento de estoque desenvolvido em Java, executado diretamente pelo terminal.
+</p>
+
+<p align="center">
+  O projeto trabalha com cadastro de produtos, funcionários e pontos, além de movimentações, reposições e conferências de estoque.
+</p>
+
+<p align="center">
+  <img src="img/estoque-demo.gif" alt="Demonstração do sistema" width="700">
+</p>
 ## Funcionalidades
 
 * Cadastro de produtos
