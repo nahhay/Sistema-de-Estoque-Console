@@ -70,7 +70,6 @@ java estoque.Main
 
 ## Estrutura do projeto
 
-```text
 Sistema-de-Estoque-em-Java/
 ├── src/
 │   └── main/
@@ -96,8 +95,8 @@ Sistema-de-Estoque-em-Java/
 │   ├── banner.png
 │   └── estoque-demo.gif
 ├── .gitignore
+├── LICENSE
 └── README.md
-```
 
 ## Objetivo
 
