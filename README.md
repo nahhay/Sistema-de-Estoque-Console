@@ -70,6 +70,7 @@ java estoque.Main
 
 ## Estrutura do projeto
 
+```text
 Sistema-de-Estoque-em-Java/
 ├── src/
 │   └── main/
@@ -97,7 +98,4 @@ Sistema-de-Estoque-em-Java/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
-## Objetivo
-
-O projeto tem como objetivo desenvolver e demonstrar conhecimentos em **Java**, **Programação Orientada a Objetos**, organização de código e implementação de um sistema de gerenciamento executado por linha de comando.
+```
