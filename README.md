@@ -1,5 +1,3 @@
-Claro. Eu deixaria **bem mais organizado**, sem exagerar em emoji, badge ou firula. O banner já faz o trabalho visual, então o resto fica limpo.
-
 <p align="center">
   <img src="img/banner.png" alt="Estoque-Console" width="100%">
 </p>
