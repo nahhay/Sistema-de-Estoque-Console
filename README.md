@@ -44,7 +44,7 @@ O sistema permite realizar o cadastro e gerenciamento de produtos, funcionários
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/nahhay/Sistema-de-Estoque-em-Java.git
 cd Sistema-de-Estoque-em-Java
 ```
 
