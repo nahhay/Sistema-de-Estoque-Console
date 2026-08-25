@@ -1,0 +1,17 @@
+# Arquivos compilados
+target/
+*.class
+
+# Histórico do VS Code
+.history/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Dependências
+lib/
