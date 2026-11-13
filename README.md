@@ -1,11 +1,3 @@
-
-
-<p align="center">
-  Sistema de gerenciamento de estoque desenvolvido em <strong>Java 17</strong> para execução via terminal, aplicando conceitos de POO.
-</p>
-
----
-
 ## Sobre o projeto
 
 O **Estoque-Console** é a primeira etapa de uma evolução em três sistemas de gerenciamento de estoque desenvolvidos em **Java**. Este é um sistema executado diretamente pelo terminal, sem persistência em banco de dados e sem interface gráfica.
