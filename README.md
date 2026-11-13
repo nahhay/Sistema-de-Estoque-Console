@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="img/banner.png" alt="Estoque-Console" width="100%">
-</p>
+
 
 <p align="center">
   Sistema de gerenciamento de estoque desenvolvido em <strong>Java 17</strong> para execução via terminal, aplicando conceitos de POO.
